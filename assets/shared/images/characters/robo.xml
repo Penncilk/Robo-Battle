@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="robo.png" width="2988" height="1555">
+  <SubTexture name="roboDown0003.png" x="0" y="0"  width="378" height="321" frameX="-107" frameY="-164" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboDown0002.png" x="378" y="0"  width="376" height="323" frameX="-107" frameY="-162" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboDown0004.png" x="754" y="0"  width="376" height="324" frameX="-107" frameY="-161" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboDown0001.png" x="1130" y="0"  width="373" height="327" frameX="-107" frameY="-156" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboDown0000.png" x="1503" y="0"  width="369" height="330" frameX="-107" frameY="-150" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboRight0003.png" x="1872" y="0"  width="359" height="358" frameX="-135" frameY="-116" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboRight0001.png" x="2231" y="0"  width="358" height="366" frameX="-132" frameY="-108" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboRight0002.png" x="2589" y="0"  width="357" height="366" frameX="-133" frameY="-108" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboRight0000.png" x="0" y="321"  width="358" height="373" frameX="-127" frameY="-101" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboRight0004.png" x="358" y="323"  width="355" height="373" frameX="-130" frameY="-101" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboIdol0006.png" x="713" y="324"  width="341" height="383" frameX="-103" frameY="-92" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboIdol0005.png" x="1054" y="327"  width="341" height="384" frameX="-103" frameY="-91" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboIdol0004.png" x="1395" y="330"  width="338" height="386" frameX="-103" frameY="-89" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboIdol0007.png" x="1733" y="358"  width="339" height="386" frameX="-102" frameY="-89" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboIdol0003.png" x="2072" y="366"  width="337" height="388" frameX="-102" frameY="-87" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboIdol0008.png" x="2409" y="366"  width="337" height="388" frameX="-102" frameY="-87" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboUp0001.png" x="0" y="694"  width="331" height="389" frameX="-103" frameY="-84" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboIdol0009.png" x="331" y="696"  width="335" height="390" frameX="-102" frameY="-85" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboUp0000.png" x="666" y="707"  width="331" height="390" frameX="-102" frameY="-82" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboIdol0002.png" x="997" y="711"  width="335" height="391" frameX="-102" frameY="-84" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboIdol0010.png" x="1332" y="716"  width="332" height="392" frameX="-102" frameY="-83" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboIdol0001.png" x="1664" y="744"  width="332" height="393" frameX="-102" frameY="-82" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboUp0002.png" x="1996" y="754"  width="331" height="394" frameX="-99" frameY="-79" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboUp0004.png" x="2327" y="754"  width="330" height="394" frameX="-101" frameY="-80" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboIdol0000.png" x="2657" y="754"  width="331" height="394" frameX="-101" frameY="-81" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboUp0003.png" x="0" y="1083"  width="331" height="396" frameX="-104" frameY="-77" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboLeft0000.png" x="331" y="1086"  width="320" height="416" frameX="-80" frameY="-63" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboLeft0004.png" x="651" y="1097"  width="320" height="416" frameX="-80" frameY="-63" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboLeft0001.png" x="971" y="1102"  width="321" height="418" frameX="-76" frameY="-64" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboLeft0002.png" x="1292" y="1108"  width="321" height="418" frameX="-73" frameY="-66" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="roboLeft003.png" x="1613" y="1137"  width="321" height="418" frameX="-76" frameY="-64" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>
